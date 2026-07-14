@@ -29,9 +29,14 @@ Project Highlights
 ![Architecture](01-Architecture/01-Final-Architecture.png)
 ---
 
-# Network Traffic & RDP Flow
+# Network Traffic
 
-![Traffic Flow](01-Architecture/02-Network-and-RDP-Flow.png)
+![Traffic Flow](01-Architecture/02-Network-Traffic-Flow.png)
+
+---
+# RDP Flow
+
+![RDP Flow](01-Architecture/03-RDP-Flow.png)
 
 ---
 
