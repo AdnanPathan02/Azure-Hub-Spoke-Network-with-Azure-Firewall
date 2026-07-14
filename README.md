@@ -34,6 +34,11 @@ Project Highlights
 ![Traffic Flow](01-Architecture/02-Network-and-RDP-Flow.png)
 
 ---
+# RDP Flow
+
+![RDP Flow](01-Architecture/03-RDP-Flow.png)
+
+---
 
 # Azure Services Used
 
